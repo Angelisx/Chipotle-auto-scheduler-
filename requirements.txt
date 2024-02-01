@@ -1,0 +1,12 @@
+# Requirements for working with simplegmail and Google Calendar API
+
+# SimpleGmail library for interacting with Gmail
+simplegmail>=0.8.0
+
+# Google APIs Client Library for Python
+google-api-python-client>=2.31.0
+
+# Auth libraries for Google APIs
+google-auth>=2.6.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=0.4.6
