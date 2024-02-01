@@ -1,4 +1,4 @@
-# Project README
+# Project Chipotle_Auto_Scheduler
 
 ## Introduction
 
